@@ -1,4 +1,4 @@
-const messages = [
-  { text: "Welcome gamers 🎮", time: "10:10" },
-  { text: "New update tonight!", time: "10:15" }
+messages = [
+  { text: "سلام 🎮", time: "10:00" },
+  { text: "آپدیت جدید اومد!", time: "10:05" }
 ];
